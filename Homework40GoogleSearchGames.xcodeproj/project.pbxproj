@@ -7,23 +7,55 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D65FA1A5276CD34F001DB77D /* SpinnerGameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65FA1A4276CD34F001DB77D /* SpinnerGameViewController.swift */; };
+		D65FA1A7276CD3AB001DB77D /* WheelsImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65FA1A6276CD3AB001DB77D /* WheelsImage.swift */; };
+		D666E6AF276B0EAA00CE3AC8 /* ViewControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D666E6AE276B0EAA00CE3AC8 /* ViewControllerExtension.swift */; };
+		D666E6B1276B18F800CE3AC8 /* BattleDiceGameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D666E6B0276B18F800CE3AC8 /* BattleDiceGameViewController.swift */; };
+		D666E6B3276B1BF400CE3AC8 /* CoinGameListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D666E6B2276B1BF400CE3AC8 /* CoinGameListViewController.swift */; };
+		D666E6B5276B1C9700CE3AC8 /* DiceGameListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D666E6B4276B1C9700CE3AC8 /* DiceGameListViewController.swift */; };
+		D666E6B8276B1D0E00CE3AC8 /* DiceGame.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D666E6B6276B1D0E00CE3AC8 /* DiceGame.storyboard */; };
 		D6935D142769938E00CD9896 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6935D132769938E00CD9896 /* AppDelegate.swift */; };
 		D6935D162769938E00CD9896 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6935D152769938E00CD9896 /* SceneDelegate.swift */; };
-		D6935D182769938E00CD9896 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6935D172769938E00CD9896 /* ViewController.swift */; };
 		D6935D1B2769938E00CD9896 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6935D192769938E00CD9896 /* Main.storyboard */; };
 		D6935D1D2769939300CD9896 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6935D1C2769939300CD9896 /* Assets.xcassets */; };
 		D6935D202769939300CD9896 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6935D1E2769939300CD9896 /* LaunchScreen.storyboard */; };
+		D6935D2827699A4300CD9896 /* GamesMenuCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6935D2727699A4300CD9896 /* GamesMenuCollectionViewController.swift */; };
+		D6935D2A27699AE200CD9896 /* GameMenuCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6935D2927699AE200CD9896 /* GameMenuCollectionViewCell.swift */; };
+		D694A7FE276AC87C004B5A04 /* CoinViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D694A7FD276AC87C004B5A04 /* CoinViewController.swift */; };
+		D694A800276ACFFD004B5A04 /* DivinationBlocksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D694A7FF276ACFFD004B5A04 /* DivinationBlocksViewController.swift */; };
+		D694A805276AD39A004B5A04 /* CoinGame.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D694A803276AD39A004B5A04 /* CoinGame.storyboard */; };
+		D694A807276AF213004B5A04 /* PersonalDiceGameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D694A806276AF213004B5A04 /* PersonalDiceGameViewController.swift */; };
+		D6D5CEE1276C1EEF006747E0 /* TicTacToeGameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D5CEE0276C1EEF006747E0 /* TicTacToeGameViewController.swift */; };
+		D6DFCEB1276C508300ED41F3 /* GridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6DFCEB0276C508300ED41F3 /* GridView.swift */; };
+		D6DFCEB3276C571200ED41F3 /* infoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6DFCEB2276C571200ED41F3 /* infoView.swift */; };
+		D6DFCEB5276CAA0400ED41F3 /* Grid.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6DFCEB4276CAA0400ED41F3 /* Grid.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D65FA1A4276CD34F001DB77D /* SpinnerGameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpinnerGameViewController.swift; sourceTree = "<group>"; };
+		D65FA1A6276CD3AB001DB77D /* WheelsImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WheelsImage.swift; sourceTree = "<group>"; };
+		D666E6AE276B0EAA00CE3AC8 /* ViewControllerExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerExtension.swift; sourceTree = "<group>"; };
+		D666E6B0276B18F800CE3AC8 /* BattleDiceGameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BattleDiceGameViewController.swift; sourceTree = "<group>"; };
+		D666E6B2276B1BF400CE3AC8 /* CoinGameListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinGameListViewController.swift; sourceTree = "<group>"; };
+		D666E6B4276B1C9700CE3AC8 /* DiceGameListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiceGameListViewController.swift; sourceTree = "<group>"; };
+		D666E6B7276B1D0E00CE3AC8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Homework40GoogleSearchGames/Base.lproj/DiceGame.storyboard; sourceTree = "<group>"; };
 		D6935D102769938E00CD9896 /* Homework40GoogleSearchGames.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Homework40GoogleSearchGames.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6935D132769938E00CD9896 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D6935D152769938E00CD9896 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		D6935D172769938E00CD9896 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D6935D1A2769938E00CD9896 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D6935D1C2769939300CD9896 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D6935D1F2769939300CD9896 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D6935D212769939300CD9896 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D6935D2727699A4300CD9896 /* GamesMenuCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GamesMenuCollectionViewController.swift; sourceTree = "<group>"; };
+		D6935D2927699AE200CD9896 /* GameMenuCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameMenuCollectionViewCell.swift; sourceTree = "<group>"; };
+		D694A7FD276AC87C004B5A04 /* CoinViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinViewController.swift; sourceTree = "<group>"; };
+		D694A7FF276ACFFD004B5A04 /* DivinationBlocksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivinationBlocksViewController.swift; sourceTree = "<group>"; };
+		D694A804276AD39A004B5A04 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Homework40GoogleSearchGames/Base.lproj/CoinGame.storyboard; sourceTree = "<group>"; };
+		D694A806276AF213004B5A04 /* PersonalDiceGameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonalDiceGameViewController.swift; sourceTree = "<group>"; };
+		D6D5CEE0276C1EEF006747E0 /* TicTacToeGameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacToeGameViewController.swift; sourceTree = "<group>"; };
+		D6DFCEB0276C508300ED41F3 /* GridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridView.swift; sourceTree = "<group>"; };
+		D6DFCEB2276C571200ED41F3 /* infoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = infoView.swift; sourceTree = "<group>"; };
+		D6DFCEB4276CAA0400ED41F3 /* Grid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Grid.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +69,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D65FA1A3276CCBEF001DB77D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				D6DFCEB4276CAA0400ED41F3 /* Grid.swift */,
+				D6DFCEB0276C508300ED41F3 /* GridView.swift */,
+				D6DFCEB2276C571200ED41F3 /* infoView.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		D65FA1A8276CF32C001DB77D /* SpinnerGame */ = {
+			isa = PBXGroup;
+			children = (
+				D65FA1A4276CD34F001DB77D /* SpinnerGameViewController.swift */,
+				D65FA1A6276CD3AB001DB77D /* WheelsImage.swift */,
+			);
+			path = SpinnerGame;
+			sourceTree = "<group>";
+		};
+		D666E6B9276B1D2F00CE3AC8 /* DiceGame */ = {
+			isa = PBXGroup;
+			children = (
+				D666E6B6276B1D0E00CE3AC8 /* DiceGame.storyboard */,
+				D666E6B4276B1C9700CE3AC8 /* DiceGameListViewController.swift */,
+				D666E6B0276B18F800CE3AC8 /* BattleDiceGameViewController.swift */,
+				D694A806276AF213004B5A04 /* PersonalDiceGameViewController.swift */,
+				D666E6AE276B0EAA00CE3AC8 /* ViewControllerExtension.swift */,
+			);
+			path = DiceGame;
+			sourceTree = "<group>";
+		};
 		D6935D072769938E00CD9896 = {
 			isa = PBXGroup;
 			children = (
@@ -58,13 +121,46 @@
 			children = (
 				D6935D132769938E00CD9896 /* AppDelegate.swift */,
 				D6935D152769938E00CD9896 /* SceneDelegate.swift */,
-				D6935D172769938E00CD9896 /* ViewController.swift */,
 				D6935D192769938E00CD9896 /* Main.storyboard */,
+				D65FA1A8276CF32C001DB77D /* SpinnerGame */,
+				D6D5CEE2276C1F35006747E0 /* TicTacToeGame */,
+				D666E6B9276B1D2F00CE3AC8 /* DiceGame */,
+				D694A801276AD355004B5A04 /* CoinGame */,
+				D694A802276AD36D004B5A04 /* GameMenu */,
 				D6935D1C2769939300CD9896 /* Assets.xcassets */,
 				D6935D1E2769939300CD9896 /* LaunchScreen.storyboard */,
 				D6935D212769939300CD9896 /* Info.plist */,
 			);
 			path = Homework40GoogleSearchGames;
+			sourceTree = "<group>";
+		};
+		D694A801276AD355004B5A04 /* CoinGame */ = {
+			isa = PBXGroup;
+			children = (
+				D694A803276AD39A004B5A04 /* CoinGame.storyboard */,
+				D666E6B2276B1BF400CE3AC8 /* CoinGameListViewController.swift */,
+				D694A7FF276ACFFD004B5A04 /* DivinationBlocksViewController.swift */,
+				D694A7FD276AC87C004B5A04 /* CoinViewController.swift */,
+			);
+			path = CoinGame;
+			sourceTree = "<group>";
+		};
+		D694A802276AD36D004B5A04 /* GameMenu */ = {
+			isa = PBXGroup;
+			children = (
+				D6935D2727699A4300CD9896 /* GamesMenuCollectionViewController.swift */,
+				D6935D2927699AE200CD9896 /* GameMenuCollectionViewCell.swift */,
+			);
+			path = GameMenu;
+			sourceTree = "<group>";
+		};
+		D6D5CEE2276C1F35006747E0 /* TicTacToeGame */ = {
+			isa = PBXGroup;
+			children = (
+				D6D5CEE0276C1EEF006747E0 /* TicTacToeGameViewController.swift */,
+				D65FA1A3276CCBEF001DB77D /* Model */,
+			);
+			path = TicTacToeGame;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,6 +222,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				D6935D202769939300CD9896 /* LaunchScreen.storyboard in Resources */,
+				D694A805276AD39A004B5A04 /* CoinGame.storyboard in Resources */,
+				D666E6B8276B1D0E00CE3AC8 /* DiceGame.storyboard in Resources */,
 				D6935D1D2769939300CD9896 /* Assets.xcassets in Resources */,
 				D6935D1B2769938E00CD9896 /* Main.storyboard in Resources */,
 			);
@@ -138,15 +236,37 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D6935D182769938E00CD9896 /* ViewController.swift in Sources */,
+				D6DFCEB3276C571200ED41F3 /* infoView.swift in Sources */,
+				D6935D2A27699AE200CD9896 /* GameMenuCollectionViewCell.swift in Sources */,
+				D6D5CEE1276C1EEF006747E0 /* TicTacToeGameViewController.swift in Sources */,
+				D694A800276ACFFD004B5A04 /* DivinationBlocksViewController.swift in Sources */,
+				D65FA1A7276CD3AB001DB77D /* WheelsImage.swift in Sources */,
+				D6DFCEB1276C508300ED41F3 /* GridView.swift in Sources */,
+				D666E6B5276B1C9700CE3AC8 /* DiceGameListViewController.swift in Sources */,
+				D666E6B3276B1BF400CE3AC8 /* CoinGameListViewController.swift in Sources */,
 				D6935D142769938E00CD9896 /* AppDelegate.swift in Sources */,
+				D6DFCEB5276CAA0400ED41F3 /* Grid.swift in Sources */,
 				D6935D162769938E00CD9896 /* SceneDelegate.swift in Sources */,
+				D65FA1A5276CD34F001DB77D /* SpinnerGameViewController.swift in Sources */,
+				D666E6AF276B0EAA00CE3AC8 /* ViewControllerExtension.swift in Sources */,
+				D666E6B1276B18F800CE3AC8 /* BattleDiceGameViewController.swift in Sources */,
+				D6935D2827699A4300CD9896 /* GamesMenuCollectionViewController.swift in Sources */,
+				D694A7FE276AC87C004B5A04 /* CoinViewController.swift in Sources */,
+				D694A807276AF213004B5A04 /* PersonalDiceGameViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
+		D666E6B6276B1D0E00CE3AC8 /* DiceGame.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D666E6B7276B1D0E00CE3AC8 /* Base */,
+			);
+			name = DiceGame.storyboard;
+			sourceTree = "<group>";
+		};
 		D6935D192769938E00CD9896 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -161,6 +281,14 @@
 				D6935D1F2769939300CD9896 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		D694A803276AD39A004B5A04 /* CoinGame.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D694A804276AD39A004B5A04 /* Base */,
+			);
+			name = CoinGame.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
